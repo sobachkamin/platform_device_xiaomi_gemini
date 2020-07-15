@@ -44,7 +44,7 @@ PRODUCT_PACKAGES += \
 
 # ConfigPanel
 PRODUCT_PACKAGES += \
-    ConfigPanel
+    DeviceFeatures
 
 # Consumer IR
 PRODUCT_PACKAGES += \
