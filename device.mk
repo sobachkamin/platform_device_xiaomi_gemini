@@ -40,7 +40,7 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    Snap
+    GCamGO
 
 # ConfigPanel
 PRODUCT_PACKAGES += \
